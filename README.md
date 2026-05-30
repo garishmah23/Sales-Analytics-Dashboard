@@ -59,8 +59,9 @@ python main.py
 ```
 
 ### Input File
+<img width="1918" height="1017" alt="project1_input" src="https://github.com/user-attachments/assets/e7657421-b04d-4f09-9fc1-569f1131ce9a" />
 
-c:\Users\hp\Downloads\project1_input.png
+
 ## Output Files
 
 ### 1. output.txt
@@ -72,9 +73,7 @@ Stores the sales report including:
 * Product-wise sales
 * Product-wise profit
 * Monthly sales data
-c:\Users\hp\Downloads\project1_output.png
-
-
+<img width="1918" height="1017" alt="project1_output" src="https://github.com/user-attachments/assets/41627041-5f38-489a-980f-a928aaec8c3f" />
 
 ## Sample Dashboard Charts
 
@@ -82,7 +81,8 @@ c:\Users\hp\Downloads\project1_output.png
 * Profit Distribution (Pie Chart)
 * Monthly Sales Trend (Line Chart)
 
-c:\Users\hp\Downloads\project1_output_graph.png
+<img width="1918" height="1017" alt="project1_output_graph" src="https://github.com/user-attachments/assets/cbcd6bc8-eecc-4cbd-958e-9dfb0ae5378c" />
+
 
 ## Learning Outcome
 
