@@ -1,0 +1,28 @@
+SALES DASHBOARD REPORT
+======================
+
+Total Sales: 638000
+Total Profit: 138500
+
+Sales by Product:
+Product
+Laptop    300000
+Phone     200000
+Tablet    138000
+Name: Sales, dtype: int64
+
+Profit by Product:
+Product
+Laptop    71000
+Phone     40000
+Tablet    27500
+Name: Profit, dtype: int64
+
+Monthly Sales Trend:
+Month
+1    100000
+2    115000
+3    128000
+4    140000
+5    155000
+Name: Sales, dtype: int64
