@@ -26,11 +26,17 @@ The dashboard reads sales data from a CSV file, processes the information using 
 ## Project Structure
 
 Sales_Dashboard_Project
+
 │
+
 ├── main.py
+
 ├── sales_data.csv
+
 ├── output.txt
+
 ├── dashboard_output.png
+
 └── README.md
 
 ## Dataset
